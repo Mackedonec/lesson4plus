@@ -24,7 +24,7 @@ caption {
 }
 
 td {
-    border: 10px solid;
+    border: 7px solid;
     width: 70px;
     height: 120px;
 }
@@ -52,6 +52,15 @@ td {
 .h100px {
     height: 100px;
 }
+
+.h135px {
+    height: 135px;
+}
+
+.h140px {
+    height: 270px;
+}
+
 
 .black {
     background-color: #000000;
