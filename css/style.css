@@ -29,6 +29,10 @@ td {
     height: 120px;
 }
 
+.w155px {
+    width: 155px;
+}
+
 .w140px {
     width: 140px;
 }
@@ -61,9 +65,8 @@ td {
     height: 270px;
 }
 
-
 .black {
-    background-color: #000000;
+    background-color: #0000002f;
 }
 
 .red {
